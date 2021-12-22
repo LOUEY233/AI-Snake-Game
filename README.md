@@ -25,6 +25,6 @@ Run:
 - if you want to play: `Snake.java`
   let AI play: `SnakeLearner2.java`
   
-  # Acknowledgement
+# Acknowledgement
   The game structure is borrowed from [java-snake-game](https://github.com/janbodnar/Java-Snake-Game).
   Thanks for your sharing!
